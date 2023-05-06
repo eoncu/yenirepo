@@ -9,6 +9,7 @@ public class Class01 {
         //v6 calışmalar
         // v7 calış
        //githup değiş
+        //localden sevgiler
 
 
 
