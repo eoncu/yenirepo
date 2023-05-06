@@ -7,6 +7,7 @@ public class Class01 {
         // v4 kısa yoldan commit
         // v5 kısa yol commit
         //v6 calışmalar
+        // v7 calış
 
 
 
