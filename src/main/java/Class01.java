@@ -10,7 +10,7 @@ public class Class01 {
         // v7 calış
        //githup değiş
         //localden sevgiler
-        //v8 kısayol
+        //v8 kısayolu
 
 
 
