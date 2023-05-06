@@ -8,6 +8,7 @@ public class Class01 {
         // v5 kısa yol commit
         //v6 calışmalar
         // v7 calış
+       //githup değiş
 
 
 
